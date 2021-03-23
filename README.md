@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bloom1337
+- 👀 I’m interested in Counter Strike Cheat development
+- 🌱 I’m currently learning C# and some CPP still.
+- 📫 How to reach me on discord bloom#1337
