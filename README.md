@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bloom1337
-- 👀 I’m interested in Counter Strike Cheat development
-- 🌱 I’m currently learning C# and some CPP still.
-- 📫 How to reach me on discord bloom#1337
+- Hi, I’m Bloom
+- I’m interested in Counter Strike Cheat development
+- Languages I know are Lua, CPP, CSharp, with some Java and Javascript
+- How to reach me on discord bloom#1880
